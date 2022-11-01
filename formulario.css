@@ -1,0 +1,61 @@
+form{
+    margin: 40px 0,
+
+}
+form label{
+	    display: block;
+	    font-size: 20px;
+	    margin: 0 0 10px;
+}
+
+input-padrao{
+	    display: blok;
+	    margin: 0 0 20px;
+	    padding: 10px 20px;
+	    width: 50%
+}
+ 
+.enviar{
+    width: 40%;
+    padding:15px 0;
+    color:blak;
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+    transition: 1s all;
+    cursor: pointer;
+
+
+} 
+.enviar:hover{
+       background: blue;
+       transform: scale(1.3);
+       transform: rotate(1000deg);
+
+}
+
+.padrao{
+    width: 40%;
+    padding:15px 0;
+    color:yellow;
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+    transition: 1s all;
+    cursor: pointer;
+
+
+} 
+.padrao:hover{
+       background: red;
+       transform: scale(1.3);
+       transform: rotate(1000deg);
+
+}
+
+
+
+
+
